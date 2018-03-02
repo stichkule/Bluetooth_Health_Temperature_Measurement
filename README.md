@@ -8,10 +8,10 @@ Features:\
 -- Functionality incorporated using the HTM (health thermometer) service from the Bluetooth stack\
 -- Adaptive Tx power adjustment based on client proximity using RSSI values and the Tx power service\
 -- Capability for signed and secired over-the-air (OTA) firmware updates\
--- Low-power implementation based on sleep modes and wait for event (WFE) functionality\
+-- Low-power implementation based on sleep modes and wait for event (WFE) functionality
 
 Implementation:\
 -- Hardware development platform: Silicon Labs wireless starter kit SLWSTK6010B, along with a Blue Gecko BGM121 BLE module\
 -- IDE and tools: Silicon Labs Simplicity Studio\
 -- Application interface: Silicon Labs Blue Gecko Android app\
--- Language: C\
+-- Language: C
