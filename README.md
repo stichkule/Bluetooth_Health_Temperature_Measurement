@@ -11,7 +11,7 @@ Features:\
 -- Low-power implementation based on sleep modes and wait for event (WFE) functionality
 
 Implementation:\
--- Hardware development platform: Silicon Labs wireless starter kit SLWSTK6020B, Blue Gecko BGM121 BLE module\
+-- Hardware development platform: Silicon Labs wireless starter kit SLWSTK6101C, Blue Gecko BGM121 BLE module\
 -- IDE and tools: Silicon Labs Simplicity Studio\
 -- Application interface: Silicon Labs Blue Gecko Android app\
 -- Language: C
